@@ -1,0 +1,101 @@
+,rank,beer_name,brewery,style,alcohol_pct,n_ratings,avg_rating,substyle,general_style,province,prov_id,count
+0,1,Péché Mortel - Bourbon,Brasserie Dieu du Ciel!,Stout - American Imperial,9.5,612,4.45,American Imperial,Stout,Quebec,24,34
+1,2,Péché Mortel,Brasserie Dieu du Ciel!,Stout - American Imperial,9.5,5364,4.41,American Imperial,Stout,Quebec,24,34
+2,3,Nectarous,Four Winds Brewing Co.,Wild Ale,5.5,129,4.44,,Wild Ale,British Columbia,59,25
+3,4,Sartori Harvest IPA,Driftwood Brewery,IPA - American,7.0,119,4.4,American,IPA,British Columbia,59,25
+4,5,La Fin Du Monde,Unibroue,Tripel,9.0,10640,4.32,,Tripel,Quebec,24,34
+5,6,BOYD (Bring Out Your Dead),Bellwoods Brewery,Stout - Russian Imperial,11.7,142,4.32,Russian Imperial,Stout,Ontario,35,32
+6,7,Raised By Wolves IPA,Driftwood Brewery,IPA - American,7.0,85,4.31,American,IPA,British Columbia,59,25
+7,8,Moralité,Brasserie Dieu du Ciel!,IPA - American,6.9,383,4.27,American,IPA,Quebec,24,34
+8,9,Fat Tug IPA,Driftwood Brewery,IPA - American,7.0,727,4.26,American,IPA,British Columbia,59,25
+9,10,Grande Cuvée Porter Baltique,Les Trois Mousquetaires,Porter - Baltic,10.0,501,4.26,Baltic,Porter,Quebec,24,34
+10,11,Colour And Shape,Superflux Beer Company,IPA - New England,6.8,42,4.34,New England,IPA,British Columbia,59,25
+11,12,Singularity,Driftwood Brewery,Stout - Russian Imperial,11.8,184,4.27,Russian Imperial,Stout,British Columbia,59,25
+12,13,Café Del Bastardo,Nickel Brook Brewing Co.,Stout - American Imperial,11.9,89,4.29,American Imperial,Stout,Ontario,35,32
+13,14,Invictus,Flying Monkeys Craft Brewery,Stout - Russian Imperial,18.1,13,4.53,Russian Imperial,Stout,Ontario,35,32
+14,15,Solstice D'été Aux Framboises,Brasserie Dieu du Ciel!,Sour - Berliner Weisse,5.9,420,4.25,Berliner Weisse,Sour,Quebec,24,34
+15,16,Nordet IPA,Brasserie Auval,IPA - American,6.0,15,4.47,American,IPA,Quebec,24,34
+16,17,THRUST! ...an IPA,Great Lakes Brewery,IPA - New England,6.5,134,4.26,New England,IPA,Ontario,35,32
+17,18,Grande Cuvée Porter Baltique - Fûts De Bourbon Et Brandy,Les Trois Mousquetaires,Porter - Baltic,10.0,132,4.26,Baltic,Porter,Quebec,24,34
+18,19,Trois Pistoles,Unibroue,Strong Ale - Belgian Dark,9.0,5209,4.23,Belgian Dark,Strong Ale,Quebec,24,34
+19,20,Grande Cuvée Déjeuner Impérial,Les Trois Mousquetaires,Stout - American Imperial,11.5,18,4.42,American Imperial,Stout,Quebec,24,34
+20,21,Red Racer IPA (India Pale Ale),Central City Brewers + Distillers,IPA - American,6.5,1140,4.23,American,IPA,British Columbia,59,25
+21,22,Le Temps Noir,Half Pints Brewing Company,Stout - Russian Imperial,9.6,54,4.28,Russian Imperial,Stout,Manitoba,46,2
+22,23,Naughty Hildegard ESB,Driftwood Brewery,Bitter - English Extra Special / Strong Bitter (ESB),6.5,144,4.24,English Extra Special / Strong Bitter (ESB),Bitter,British Columbia,59,25
+23,24,Farmageddon (Niagara Montmorency Cherry),Bellwoods Brewery,Farmhouse Ale - Saison,6.3,47,4.28,Saison,Farmhouse Ale,Ontario,35,32
+24,25,Yakima IPA,Microbrasserie Le Castor,IPA - American,6.5,218,4.22,American,IPA,Quebec,24,34
+25,26,Origin of Darkness - Lervig,Collective Arts Brewing,Stout - American Imperial,11.6,25,4.33,American Imperial,Stout,Ontario,35,32
+26,27,St-Ambroise Stout Impériale Russe,McAuslan Brewing,Stout - Russian Imperial,9.2,317,4.21,Russian Imperial,Stout,Quebec,24,34
+27,28,Maudite,Unibroue,Dubbel,8.0,4871,4.2,,Dubbel,Quebec,24,34
+28,29,Aphrodisiaque / Aphrodite,Brasserie Dieu du Ciel!,Stout - American,6.5,1718,4.2,American,Stout,Quebec,24,34
+29,30,Vexillum,Four Winds Brewing Co.,IPA - Imperial,9.0,43,4.27,Imperial,IPA,British Columbia,59,25
+30,31,IPA Du Nord-Est,Brasseurs Du Nord Inc.,IPA - New England,6.0,104,4.22,New England,IPA,Quebec,24,34
+31,32,Karma Citra IPA,Great Lakes Brewery,IPA - American,6.6,153,4.21,American,IPA,Ontario,35,32
+32,33,Super A,Brasserie Auval,IPA - Imperial,8.0,19,4.34,Imperial,IPA,Quebec,24,34
+33,34,Double Tempest,Amsterdam Brewing Company,Stout - American Imperial,11.9,47,4.24,American Imperial,Stout,Ontario,35,32
+34,35,Terrible,Unibroue,Quadrupel (Quad),10.5,2335,4.17,,Quadrupel (Quad),Quebec,24,34
+35,36,Juicy AF,Boombox Brewing Company,IPA - New England,7.5,20,4.3,New England,IPA,British Columbia,59,25
+36,37,Juxtapose,Four Winds Brewing Co.,IPA - American,6.5,138,4.18,American,IPA,British Columbia,59,25
+37,38,Juicin',Sawdust City Brewing Co.,IPA - American,6.0,23,4.28,American,IPA,Ontario,35,32
+38,39,Solstice D'hiver Réserve Spéciale En Fût De Bourbon,Brasserie Dieu du Ciel!,Barleywine - American,10.8,126,4.18,American,Barleywine,Quebec,24,34
+39,40,Série Signature IPA,Les Trois Mousquetaires,IPA - American,6.0,50,4.21,American,IPA,Quebec,24,34
+40,41,The Chocolate Manifesto,Flying Monkeys Craft Brewery,Stout - Sweet / Milk,10.0,495,4.16,Sweet / Milk,Stout,Ontario,35,32
+41,42,Don De Dieu,Unibroue,Tripel,9.0,3040,4.15,,Tripel,Quebec,24,34
+42,43,Laser Show,Left Field Brewery,IPA - New England,8.0,66,4.18,New England,IPA,Ontario,35,32
+43,44,Hellwoods,Bellwoods Brewery,Stout - Russian Imperial,10.0,123,4.16,Russian Imperial,Stout,Ontario,35,32
+44,45,Hors Série Ceci N'est Pas Une Gueuze,Les Trois Mousquetaires,Wild Ale,5.5,40,4.2,,Wild Ale,Quebec,24,34
+45,46,La Vache Folle Imperial Milk Stout,Microbrasserie Charlevoix,Stout - American Imperial,9.0,280,4.14,American Imperial,Stout,Quebec,24,34
+46,47,Happyness,Superflux Beer Company,IPA - American,7.5,40,4.19,American,IPA,British Columbia,59,25
+47,48,Burly Wine,Half Pints Brewing Company,Barleywine - English,10.5,78,4.16,English,Barleywine,Manitoba,46,2
+48,49,Origin of Darkness - Equilibrium,Collective Arts Brewing,Stout - American Imperial,11.8,20,4.25,American Imperial,Stout,Ontario,35,32
+49,50,Barrel-Aged Imperial Porter,Collective Arts Brewing,Porter - Imperial,11.5,101,4.15,Imperial,Porter,Ontario,35,32
+50,51,Jutsu,Bellwoods Brewery,Pale Ale - American,5.6,139,4.14,American,Pale Ale,Ontario,35,32
+51,52,Immoralité,Brasserie Dieu du Ciel!,IPA - Imperial,9.2,82,4.15,Imperial,IPA,Quebec,24,34
+52,53,Witchshark,Bellwoods Brewery,IPA - Imperial,9.0,204,4.13,Imperial,IPA,Ontario,35,32
+53,54,Widowmaker,Backcountry Brewing,IPA - American,6.7,28,4.2,American,IPA,British Columbia,59,25
+54,55,Octopus Wants To Fight IPA,Great Lakes Brewery,IPA - American,6.2,159,4.13,American,IPA,Ontario,35,32
+55,56,Goblin Sauce,Bellwoods Brewery,IPA - Imperial,8.4,42,4.17,Imperial,IPA,Ontario,35,32
+56,57,Lake Effect,Great Lakes Brewery,IPA - American,7.0,148,4.13,American,IPA,Ontario,35,32
+57,58,Double Jutsu,Bellwoods Brewery,IPA - American,8.0,50,4.16,American,IPA,Ontario,35,32
+58,59,Boréale Double Descente,Brasseurs Du Nord Inc.,IPA - New England,8.0,46,4.16,New England,IPA,Quebec,24,34
+59,60,Jelly King - Pink Guava,Bellwoods Brewery,Sour - Fruited Kettle Sour,5.6,25,4.2,Fruited Kettle Sour,Sour,Ontario,35,32
+60,61,Rad Seeker,Boombox Brewing Company,IPA - American,7.0,20,4.22,American,IPA,British Columbia,59,25
+61,62,Péché Mortel Termopilas,Brasserie Dieu du Ciel!,Stout - American Imperial,9.5,27,4.19,American Imperial,Stout,Quebec,24,34
+62,63,Old Cellar Dweller,Driftwood Brewery,Barleywine - American,11.6,150,4.12,American,Barleywine,British Columbia,59,25
+63,64,Jelly King,Bellwoods Brewery,Wild Ale,5.6,148,4.12,,Wild Ale,Ontario,35,32
+64,65,Karma Simcoe,Great Lakes Brewery,IPA - American,6.6,12,4.29,American,IPA,Ontario,35,32
+65,66,Origin of Darkness - Vitamin Sea,Collective Arts Brewing,Stout - American Imperial,10.3,22,4.22,American Imperial,Stout,Ontario,35,32
+66,67,Aromatherapy IPA,Beyond the Pale Brewing Company,IPA - American,6.5,78,4.13,American,IPA,Ontario,35,32
+67,68,Ten Bitter Years,Black Oak Brewing Co.,IPA - Imperial,8.0,200,4.11,Imperial,IPA,Ontario,35,32
+68,69,IPA #3 Tokyo Drift,Last Best Eatery & Brewpub,IPA - English,7.2,15,4.24,English,IPA,Alberta,48,6
+69,70,Ransack the Universe,Collective Arts Brewing,IPA - American,6.8,680,4.1,American,IPA,Ontario,35,32
+70,71,Jelly King - Raspberry,Bellwoods Brewery,Wild Ale,5.6,10,4.31,,Wild Ale,Ontario,35,32
+71,72,La Fringante,Unibroue,Blonde Ale - Belgian,10.0,88,4.12,Belgian,Blonde Ale,Quebec,24,34
+72,73,Catnip,Noctem Artisans Brasseurs,IPA - American,7.5,25,4.18,American,IPA,Quebec,24,34
+73,74,Double Fruit Punch IPA,Vox Populi,IPA - Imperial,8.0,60,4.13,Imperial,IPA,Quebec,24,34
+74,75,Herbe à Détourne,Brasserie Dieu du Ciel!,Tripel,10.2,274,4.1,,Tripel,Quebec,24,34
+75,76,Space Armadillo,Twin Sails Brewing,IPA - Imperial,8.0,21,4.19,Imperial,IPA,British Columbia,59,25
+76,77,Kentucky Bastard,Nickel Brook Brewing Co.,Stout - Russian Imperial,14.5,208,4.1,Russian Imperial,Stout,Ontario,35,32
+77,78,Twenty Pounder,Driftwood Brewery,IPA - Imperial,9.0,101,4.11,Imperial,IPA,British Columbia,59,25
+78,79,Dominus Vobiscum Triple,Microbrasserie Charlevoix,Tripel,9.0,191,4.1,,Tripel,Quebec,24,34
+79,80,Thor's Hammer Barley Wine,Central City Brewers + Distillers,Barleywine - English,11.5,155,4.1,English,Barleywine,British Columbia,59,25
+80,81,Sovereign Super Saison,Four Winds Brewing Co.,Farmhouse Ale - Saison,8.5,38,4.14,Saison,Farmhouse Ale,British Columbia,59,25
+81,82,Life in the Clouds,Collective Arts Brewing,IPA - New England,6.2,468,4.09,New England,IPA,Ontario,35,32
+82,83,Apex Predator Double IPA,Apex Predator Brewing,IPA - Imperial,8.2,15,4.22,Imperial,IPA,Alberta,48,6
+83,84,Hu Jon Hops,Trailway Brewing Co.,IPA - American,6.5,23,4.17,American,IPA,New Brunswick,13,1
+84,85,Play Dead IPA,Yellow Dog Brewing,IPA - American,6.8,91,4.1,American,IPA,British Columbia,59,25
+85,86,Pomona,Four Winds Brewing Co.,Wild Ale,5.5,24,4.16,,Wild Ale,British Columbia,59,25
+86,87,Dominus Vobiscum Blanche,Microbrasserie Charlevoix,Wheat Beer - Witbier,5.0,160,4.09,Witbier,Wheat Beer,Quebec,24,34
+87,88,Belgian Black,Lighthouse Brewing Company,Strong Ale - Belgian Dark,9.0,37,4.13,Belgian Dark,Strong Ale,British Columbia,59,25
+88,89,Fahr Away Hefeweizen,Brauerei Fahr,Wheat Beer - Hefeweizen,5.3,20,4.17,Hefeweizen,Wheat Beer,Alberta,48,6
+89,90,High Harvest Hemp IPA,Wild Rose Brewery & Taproom,IPA - American,6.5,20,4.17,American,IPA,Alberta,48,6
+90,91,Olde Deuteronomy,Alley Kat Brewing Company,Barleywine - American,10.2,117,4.09,American,Barleywine,Alberta,48,6
+91,92,Con Leche Horchata Style Milk Stout,Twin Sails Brewing,Stout - Sweet / Milk,7.5,22,4.16,Sweet / Milk,Stout,British Columbia,59,25
+92,93,St-Ambroise Oatmeal Stout,McAuslan Brewing,Stout - Oatmeal,5.0,1313,4.07,Oatmeal,Stout,Quebec,24,34
+93,94,New England-Style Pale Ale,Blindman Brewing,Pale Ale - American,5.5,30,4.13,American,Pale Ale,Alberta,48,6
+94,95,Jelly King - Raspberry And Peach,Bellwoods Brewery,Sour - Fruited Kettle Sour,5.6,18,4.17,Fruited Kettle Sour,Sour,Ontario,35,32
+95,96,Little Dog Syndrome,Yellow Dog Brewing,IPA - Imperial,8.2,15,4.19,Imperial,IPA,British Columbia,59,25
+96,97,Changeling (Raspberry),Brassneck Brewery,Wild Ale,6.0,25,4.14,,Wild Ale,British Columbia,59,25
+97,98,Grande Noirceur,Brasserie Dieu du Ciel!,Stout - Russian Imperial,9.0,462,4.07,Russian Imperial,Stout,Quebec,24,34
+98,99,Bounty Hunter,Bellwoods Brewery,Porter - Imperial,10.3,75,4.09,Imperial,Porter,Ontario,35,32
+99,100,Dernière Volonté - Brettanomyces,Brasserie Dieu du Ciel!,Strong Ale - Belgian Pale,7.0,53,4.1,Belgian Pale,Strong Ale,Quebec,24,34
