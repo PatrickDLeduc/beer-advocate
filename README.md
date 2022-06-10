@@ -12,3 +12,14 @@ Looking at the Canadian data, I find that the most popular beers are brewed in t
 Finally, looking at which breweries have the most presence on the top 100, I find that Bellwoods Brewery and Dieu Du Ciel are neck and neck at the top, with Driftwood brewery at a distant 3rd place. Collective Arts and Unibroue, my personal favourite craft beer brands, are tied for 4th place, with 5 beers each.
 
 ![Bellwoods Brewery and Dieu Du Ciel beers make up nearly one-quarter of the top 100 Canadian beers](https://github.com/PatrickDLeduc/beer-advocate/blob/main/best_canadian_breweries.png?raw=true)
+
+## Top Canadian Breweries
+
+My interest was piqued at this point, so I gathered data about all of the currently brewed beers from the 38 brewers who appear on the top 100 Canadian beers list. My first question was what styles of beer are most commonly brewed in Canada? According to this data, IPAs are by far the most frequently brewed beer style: 3.5 times as common as the Stouts and Pale Ales.
+
+![number_beers_by_style_(Canada)](https://user-images.githubusercontent.com/98104764/173133203-1caf16b7-b329-4121-b6a4-10fbf3f9c0a6.png)
+
+This made me curious as to whether there was any distinction by province. Here I show the data from Ontario, Quebec, and British Columbia as they make up most of the breweries on the list. Alberta, New Brunswick and Manitoba have similar distributions. IPAs are clearly the most popular beer style in all three provinces with stouts and pale ales taking up 2nd and 3rd places in BC and Ontario . Quebec breaks the trend, with the largest number of farmhouse ales across all provinces. 
+
+![beer_styles_by_province_sorted](https://user-images.githubusercontent.com/98104764/173133745-9df41e29-1c55-4f40-9a4d-2b5f82a8242e.png)
+
