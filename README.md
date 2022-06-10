@@ -15,11 +15,13 @@ Finally, looking at which breweries have the most presence on the top 100, I fin
 
 ## Top Canadian Breweries
 
-My interest was piqued at this point, so I gathered data about all of the currently brewed beers from the 38 brewers who appear on the top 100 Canadian beers list. My first question was what styles of beer are most commonly brewed in Canada? According to this data, IPAs are by far the most frequently brewed beer style: 3.5 times as common as the Stouts and Pale Ales.
+My interest was piqued at this point, so I gathered data about all of the currently brewed beers from the 38 brewers who appear on the top 100 Canadian beers list. My first question was what styles of beer are most commonly brewed in Canada? According to this data, IPAs are by far the most frequently brewed beer style: 3.5 times as common as Stouts and Pale Ales.
 
 ![number_beers_by_style_(Canada)](https://user-images.githubusercontent.com/98104764/173133203-1caf16b7-b329-4121-b6a4-10fbf3f9c0a6.png)
+
 
 This made me curious as to whether there was any distinction by province. Here I show the data from Ontario, Quebec, and British Columbia as they make up most of the breweries on the list. Alberta, New Brunswick and Manitoba have similar distributions. IPAs are clearly the most popular beer style in all three provinces with stouts and pale ales taking up 2nd and 3rd places in BC and Ontario . Quebec breaks the trend, with the largest number of farmhouse ales across all provinces. 
 
 ![beer_styles_by_province_sorted](https://user-images.githubusercontent.com/98104764/173133745-9df41e29-1c55-4f40-9a4d-2b5f82a8242e.png)
 
+Looking into the sheer number of IPAs brewed in Canada, it turns out that many breweries have a base recipe for their IPAs and then mix in different fruits. Bellwoods Brewery from Toronto, Ontario alone has 105 different types of IPA, with 23 variations on their classic Milkshark IPA.
