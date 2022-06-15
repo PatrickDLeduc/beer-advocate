@@ -25,3 +25,15 @@ This made me curious as to whether there was any distinction by province. Here I
 ![beer_styles_by_province_sorted](https://user-images.githubusercontent.com/98104764/173133745-9df41e29-1c55-4f40-9a4d-2b5f82a8242e.png)
 
 Looking into the sheer number of IPAs brewed in Canada, it turns out that many breweries have a base recipe for their IPAs and then mix in different fruits. Bellwoods Brewery from Toronto, Ontario alone has 105 different types of IPA, with 23 variations on their classic Milkshark IPA.
+
+
+## International Statistics
+
+After looking at the Canadian statistics, I decided to expand my analysis to look at the rest of the world. My initial question was who makes the strongest beer on average? Using the ABV (Alcohol by Volume: https://en.wikipedia.org/wiki/Alcohol_by_volume), I plotted the median ABV for each country. The dashed line represents the median ABV for all beers in the dataset. Keeping in mind that this is an American site and the data is biased towards the USA, the data suggests that Europeans still make the strongest beers on average. Apart from the USA, the top 10 countries are all European.
+
+![median_beer_abv_by_country_02](https://user-images.githubusercontent.com/98104764/173888735-b18a0575-2e00-4808-a63b-2f36ceead41f.jpeg)
+
+Although I'm not surprised that Denmark tops the list, I am surprised that Belgium was not in the top 3. Belgium is most famous for their abbey beers which all tend to be very high in alcohol content. It made me wonder just how the beers stack up in their average alcohol content by style. Looking at the figure below, the classic abbey styles (Quadrupel, Tripel, Dubbel) are all above the average ABV, only outmatched by barleywine and bière de brut. Barleywine and bière de brut are both styles of beer that take after wine: they are essentially wines brewed with grain instead of fruit. Barleywine is closer to beer in style and flavour, while bière de brut is brewed with similar techniques to making champagne.  
+
+![median_abv_by_beer_style_expanded_02](https://user-images.githubusercontent.com/98104764/173889039-a30ba990-469e-44db-95f0-28cc89a47a72.jpeg)
+
